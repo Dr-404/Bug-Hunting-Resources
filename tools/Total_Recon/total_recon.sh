@@ -23,8 +23,8 @@ YELLOW='\033[0;33m'
 NC='\033[0m' # No Color
 
 # Global Variables
-domain="nuffic.nl"
-api_key='gh8YRFdULNZz5KenwNQG0Jjj29NvvMI9'
+domain="nuffic.nl" # Change with your domain
+api_key='gh8YRFdULNZz5KenwNQG0Jjj29NvvMI9' # Change with your SecurityTrail API Key
 output_dir="output"
 
 
